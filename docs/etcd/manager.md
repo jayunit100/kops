@@ -1,3 +1,5 @@
+Note: Please track https://github.com/kubernetes/org/issues/308 for updates on etcdadm project, which will be  eventually subsuming etcd-manager functionality.
+
 ## etcd-manager
 
 etcd-manager is a kubernetes-associated project that kops will use to manage
